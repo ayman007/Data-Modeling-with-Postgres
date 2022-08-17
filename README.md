@@ -13,7 +13,7 @@ I will define fact and dimension tables for a star schema for a particular analy
 
 ## Schema
 
-<img src="erd-diagram.png" alt="image not found" width="300" height="300"/>
+<img src="erd-diagram.png" alt="image not found" width="500" height="500"/>
 
 ## Dataset
 * **Song Dataset:**
@@ -32,7 +32,7 @@ song_data/A/A/B/TRAABJL12903CDCF1A.json`
 `log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json`
 
-<img src="log-data.png" alt="image not found" width="250" height="250"/>
+<img src="log-data.png" alt="image not found" width="450" height="450"/>
 
 ## Prerequisites
 
