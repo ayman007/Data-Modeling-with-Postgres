@@ -32,7 +32,7 @@ song_data/A/A/B/TRAABJL12903CDCF1A.json`
 `log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json`
 
-<img src="log-data.png" alt="image not found" width="850" height="450"/>
+<img src="log-data.png" alt="image not found" width="900" height="450"/>
 
 ## Prerequisites
 
